@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Made using mostly the Flutter first app walkthrough, and then I decided to try out a few ideas. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
